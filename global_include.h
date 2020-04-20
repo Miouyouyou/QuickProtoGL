@@ -1,0 +1,32 @@
+#ifndef MYY_VECTORS_GENERIC
+#define MYY_VECTORS_GENERIC 1
+
+#include "shaders.h"
+#include "myy/current/opengl.h"
+#include "myy/helpers/hitbox_action.h"
+#include "myy/helpers/vector.h"
+#include "myy/helpers/struct.h"
+#include "myy/helpers/dimensions.h"
+#include "myy/helpers/colors.h"
+#include "myy/helpers/temp_string.h"
+#include "myy/helpers/buffers.h"
+#include "myy/helpers/matrices.h"
+#include "myy/helpers/position.h"
+#include "myy/helpers/myy_memory.h"
+#include "myy/helpers/c_types.h"
+#include "myy/helpers/macros.h"
+#include "myy/helpers/log.h"
+#include "myy/helpers/opengl/buffers.h"
+#include "myy/helpers/opengl/loaders.h"
+#include "myy/helpers/opengl/shaders_pack.h"
+#include "myy/helpers/arrays.h"
+#include "myy/helpers/random.h"
+#include "myy/helpers/file.h"
+#include "myy/helpers/memory.h"
+#include "myy/helpers/fonts/packed_fonts_parser.h"
+#include "myy/helpers/fonts/packed_fonts_display.h"
+#include "myy/helpers/strings.h"
+#include "myy/myy.h"
+#include "myy_user_state.h"
+
+#endif

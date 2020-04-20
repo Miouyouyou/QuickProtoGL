@@ -1,0 +1,13 @@
+font-packer
+font-packer-printer
+pack_printer
+vector
+bmp-to-raw
+*.cmake
+Makefile
+*.ninja
+CMakeFiles
+CMakeCache.txt
+*.kate-swp
+*.swp
+

@@ -1,0 +1,14 @@
+* Configuration des instructions
+
+Lorsqu'une instruction est sélectionnée, il est possible de la configurer via le menu qui apparaît à droite de l'écran.
+
+
+Instruction :
+- Type
+- Arguments numériques
+
+Bien que les arguments soient numériques, certains arguments appelent à être plutôt configuré via certains widgets que d'autres.
+Par exemple, addr sera plutôt configuré avec un widget permettant de récupérer l'adresse d'un symbole, que 
+
+Le menu dispose de différents widgets permettant de configurer les différentes parties.
+Lorsque l'utilisateur effectue une opération via un widget, que faire ?
